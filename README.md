@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+Name: Abdulkadir Mohamed Shuriye
+ID:   C119611
 
 ## Getting Started
 
